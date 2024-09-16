@@ -19,4 +19,4 @@ Material UI
 
 contact- charlottemuthoni20@gmail.com
 
-I have deployed the site to https://66e4a7cdc63a38829f805218--stirring-sherbet-a549fa.netlify.app/
+I have deployed the site to https://stirring-sherbet-a549fa.netlify.app/
